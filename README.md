@@ -1,1 +1,1 @@
-# SQL_Queries OF Hackerrank
+# SQL_Queries OF HackerRank
